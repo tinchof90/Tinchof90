@@ -4,7 +4,7 @@
 
 Conozco la trazabilidad de medicamentos desde los dos lados: primero gestionándola, después programándola.
 
-Durante 6 años trabajé en compras, stock y distribución de insumos en una institución de salud de Uruguay. Desde 2023 soy Full Stack Developer en esa misma institución, a cargo de los sistemas que soportan ese proceso: del proveedor al centro y del centro al paciente.
+Durante 6 años trabajé en compras, stock y distribución de insumos en la CHLA-EP. Desde 2023 soy Full Stack Developer en esa misma institución, a cargo de los sistemas que soportan ese proceso: del proveedor al centro y del centro al paciente.
 
 📍 Montevideo, Uruguay · 🎓 Analista en Tecnologías de la Información (Universidad ORT Uruguay) · 💼 Abierto a proyectos freelance
 
