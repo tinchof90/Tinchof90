@@ -1,51 +1,82 @@
 # Martín Facio Raineri
 
-**Fullstack Developer | Analista de Sistemas**
+**Full Stack Developer · React · Node.js · PostgreSQL · Sistemas de salud**
 
-Desarrollador fullstack con experiencia en construcción de aplicaciones web end-to-end, desde el diseño de interfaces hasta la implementación de lógica de negocio y gestión de bases de datos. Orientado a escribir código limpio, mantenible y escalable.
+Conozco la trazabilidad de medicamentos desde los dos lados: primero gestionándola, después programándola.
 
-Actualmente en búsqueda de nuevos desafíos profesionales y abierto a proyectos freelance.
+Durante 6 años trabajé en compras, stock y distribución de insumos en una institución de salud de Uruguay. Desde 2023 soy Full Stack Developer en esa misma institución, a cargo de los sistemas que soportan ese proceso: del proveedor al centro y del centro al paciente.
+
+📍 Montevideo, Uruguay · 🎓 Analista en Tecnologías de la Información (Universidad ORT Uruguay) · 💼 Abierto a proyectos freelance
+
+---
+
+## 💼 Experiencia profesional
+
+> El código de estos sistemas pertenece a la institución y no es público. Acá describo qué hacen y cuál fue mi rol.
+
+### 💊 Plataforma de pacientes y subsidios
+Diseñada y desarrollada desde cero, de punta a punta.
+- Registro y seguimiento de pacientes en tratamiento.
+- Cálculo automático de subsidios mensuales según los meses de tratamiento.
+- Reportes financieros para transferencias y tareas programadas.
+- Ciclo completo: relevamiento, modelo de datos, API, interfaz, testing y despliegue.
+
+`React` `Node.js` `Express` `Yup` `node-cron` `PostgreSQL`
+
+### 💉 Trazabilidad de vacunas y biológicos *(en desarrollo)*
+Sistema nuevo, desde cero: lotes, vencimientos, asignaciones a centros y movimientos de stock.
+
+`React` `Node.js` `Express` `PostgreSQL`
+
+### 🏥 Trazabilidad farmacéutica
+Mantenimiento, soporte y mejoras de un sistema crítico que sigue cada fármaco desde la compra, pasando por el stock central y la distribución a los centros, hasta la dispensación al paciente.
+- Corrección de incidencias y nuevas funcionalidades en producción.
+- Refactorización para mejorar mantenibilidad y rendimiento.
+
+`PHP` `AngularJS` `PostgreSQL`
+
+### 🖥️ Infraestructura y soporte
+- Backend y base de datos en servidores Linux locales; frontend en servidor web.
+- Help desk: correo institucional, impresoras, drivers y configuración de equipos.
+
+`Linux` `Redes` `Servidores web`
 
 ---
 
 ## 🛠️ Tecnologías
 
-### Frontend
+**Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend
+**Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Base de Datos
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Base de datos e infraestructura**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Análisis y metodologías:** análisis funcional, relevamiento de requerimientos, modelado de datos, Scrum.
+
+**Aprendiendo ahora:** TypeScript · Docker · testing (Jest) · despliegue en la nube
 
 ---
 
-## 📂 Proyectos Destacados
+## 🌐 In English
 
-> Los siguientes proyectos fueron desarrollados durante mi carrera universitaria como parte de mi formación académica en Análisis de Sistemas.
-
-### 🏊 [Federación Uruguaya de Natación](https://github.com/tinchof90/Federacion-Uruguaya-Natacion)
-Aplicación web construida con JavaScript, HTML y CSS que combina lógica de programación con estructuración de datos para gestionar información de la federación.
-
-### 🏁 [UruG — Ururacer Gestión](https://github.com/tinchof90/uruG)
-Aplicación web fullstack (HTML, JavaScript, Java, CSS) orientada a mejorar la comunicación interna y estandarizar procesos de gestión y elaboración de pedidos.
-
-### ⚛️ [Taller Frontend — React](https://github.com/tinchof90/entregaTFT)
-Proyecto final del Taller de Frontend, desarrollado con React.
+Full Stack Developer (React, Node.js, PostgreSQL) with a healthcare background. I spent 6 years managing drug purchasing, inventory and distribution at a Uruguayan healthcare institution, and since 2023 I build and maintain the systems behind that process: a patient and subsidy platform built from scratch, a vaccine traceability system in progress, and a PHP/AngularJS pharmaceutical traceability system. Open to freelance work: custom web apps, AngularJS/PHP maintenance and migrations, and inventory or traceability tools for small healthcare businesses.
 
 ---
 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinfacioraineri/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tinchof90)
-
----
-
-> *Disponible para posiciones fullstack y proyectos freelance — no dudes en contactarme.*
